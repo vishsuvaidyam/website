@@ -1,0 +1,22 @@
+.menu{
+    background: url(../about/img/woman-1733881__340.jpg);
+    height: 300px;
+    background-size: cover;
+    
+}
+.header{
+    font-size: 20px;
+    margin-top: 40px;
+}
+.car{
+    background-color: beige;
+}
+.side{
+    margin-top: 100px;
+}
+.font{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.learn{
+    margin-top: 50px;
+}
