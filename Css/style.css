@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.home{
+
+    background: url('../Assesst/pexels-photo-3184317.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.btn{
+    width: 210px;
+    height: 60px;
+    background-color: aqua;
+    border-radius: 60px;
+    border: none;
+    outline: none;
+    color: white;
+   
+}
+.logo{
+    font-size: 30px;
+    font-weight: 400;
+}
+.menu{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
