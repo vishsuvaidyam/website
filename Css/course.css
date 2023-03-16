@@ -2,8 +2,18 @@
     background: url(../Assesst/pexels-photo-547114.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 1350px;
 }
 .heading{
     font-size: 20px;
+}
+.card-btn{
+    width: 120px;
+    height: 40px;
+    background-color: aqua;
+    font-size: 14px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    outline: none;
 }

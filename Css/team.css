@@ -1,0 +1,12 @@
+.our-team{
+    height: 300px;
+    background: url(../Assesst/our\ team\ backg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content-lorem{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
