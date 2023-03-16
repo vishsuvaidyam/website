@@ -1,18 +1,23 @@
 .menu{
     background: url(../about/img/Header-614041282-India.jpg);
-    height: 500px;
+    height: 320px;
     background-size: cover;
     
 }
 .header{
-    font-size: 20px;
-    margin-top: 40px;
+    font-size: 15px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+   
+}
+.cont {
+margin-top:100px ;
 }
 .car{
     background-color: beige;
 }
 .side{
-    margin-top: 100px;
+    margin-top: 140px;
 }
 .font{
     font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -22,8 +27,10 @@
 }
  
  .text{
-    color: rgba(255, 255, 0, 0.664);
+    list-style-type: none;
     text-decoration: none;
-    font-size: 20px;
     margin-top: -50px;
+     
  }
+ 
+  
